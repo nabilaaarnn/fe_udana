@@ -1,4 +1,5 @@
 🌟 **Landing Page Crowdfunding** 🌟
+Link Landing Page: https://daftarmagang.netlify.app/
 
 💡 Proyek ini dibuat untuk mendukung kampanye crowdfunding peluncuran produk inovatif yang memberikan manfaat besar bagi masyarakat.
 
