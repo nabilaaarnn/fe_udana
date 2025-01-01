@@ -1,13 +1,13 @@
 🌟 **Landing Page Crowdfunding** 🌟
 Link Landing Page: https://daftarmagang.netlify.app/
 
-💡 Proyek ini dibuat untuk mendukung kampanye crowdfunding peluncuran produk inovatif yang memberikan manfaat besar bagi masyarakat.
+💡 This project was created to support a crowdfunding campaign for the launch of an innovative product that brings significant benefits to the community.
 
-🔥 **Fitur Utama:**
-- 🎨 Desain responsif & modern  
-- 🚀 Informasi menarik tentang kampanye  
-- 🤝 Akses mudah untuk kontribusi  
+🔥 **Key Features:**
+- 🎨 Responsive & modern design  
+- 🚀 Engaging campaign information  
+- 🤝 Easy access for contributions  
 
-Proyek ini dibangun menggunakan **Tailwind CSS** sebagai contoh sederhana penerapan teknologi front-end untuk memberikan user experience terbaik. 💻
+This project is built using **Tailwind CSS** as a simple example of implementing front-end technology to deliver the best user experience. 💻  
 
-✨ *Bergabunglah dalam perjalanan mendukung inovasi dan berbagi kesuksesan melalui MD-Dana!* ✨
+✨ *Join the journey of supporting innovation and sharing success with MD-Dana!* ✨
